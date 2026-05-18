@@ -2,7 +2,7 @@
 
 **Charty** is published by Pascal Peltriaux.
 
-**Effective date:** 17 May 2026
+**Effective date:** 18 May 2026
 
 ---
 
@@ -47,7 +47,7 @@ The following features hand data to **iOS itself**, which then routes it under y
 
 - **Print or share as PDF** — Charty generates a PDF locally and presents the iOS share sheet. You decide whether to AirPrint, save to Files, email, message, etc.
 - **Export sessions as CSV** — Same pattern: file generated locally, share sheet hands it to whatever app you pick.
-- **iCloud sync** (planned, off by default) — When enabled in a future version, your data will sync via CloudKit's **private database**, which is encrypted by Apple and tied to your own iCloud account. Charty's developer cannot read your iCloud private database. Sync is opt-in.
+- **iCloud sync** (optional, off by default) — When enabled in **Settings → Data → iCloud sync**, your data syncs via CloudKit's **private database**, which is encrypted by Apple and tied to your own iCloud account. Charty's developer cannot read your iCloud private database. Sync is opt-in and per-device — toggling it off keeps the cloud copy intact, the device just stops syncing locally.
 
 ## Children's privacy
 
@@ -73,7 +73,7 @@ Charty schedules **local** notifications for daily routine reminders. These are 
 
 ## Network access
 
-Charty does **not** make any network requests. The app has no embedded URLs, no telemetry endpoints, no remote configuration, no ad SDKs, no analytics SDKs, no crash reporters. If you put the device in Airplane mode, Charty works identically.
+Charty does **not** make any network requests, with the single exception of iCloud sync if you have explicitly enabled it (which travels through Apple's own iCloud infrastructure to your own iCloud account). The app has no embedded URLs, no telemetry endpoints, no remote configuration, no ad SDKs, no analytics SDKs, no crash reporters. In Airplane mode, Charty works identically (iCloud sync simply pauses until connectivity returns).
 
 ## Changes to this policy
 
