@@ -20,8 +20,11 @@ Charty helps children (primarily ages 4–10, including kids with ASD and other 
 
 - 🧘 **Calm celebrations only** override for sensory-sensitive days
 - 🔊 **Sound + haptics + animations** all individually toggleable
-- ♿ **Reduce Motion** respected on every animation
-- 🗣️ **VoiceOver** support and Dynamic Type up to AX5
+- ♿ **Reduce Motion** respected on every animation, with an in-app override on top of the system toggle
+- 🗣️ **VoiceOver** labels on every interactive element, supported app-wide
+- 🔤 **Dynamic Type** up to AX5 (chart cards and task rows wrap; no clipping); **Bold Text** inherited via system fonts
+- 🎨 **Differentiate Without Color** — every state has an icon or label backup, not just a colour
+- 🔆 **Sufficient Contrast** — themed-background overlays maintain WCAG AA 4.5:1 across all 9 backgrounds
 - 👆 **88 pt minimum hit targets** on every child-facing element
 - 🔒 **Parent gate** (PIN or Face ID) protects Settings + chart edits from accidental kid taps
 - 🌐 **Universal** — runs on iPhone and iPad, with a 2-column grid layout on iPad

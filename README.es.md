@@ -20,11 +20,14 @@ Charty ayuda a los niños (principalmente de 4 a 10 años, incluyendo niños con
 
 - 🧘 **Anulación de «solo celebraciones calmas»** para días sensorialmente sensibles
 - 🔊 **Sonido + vibraciones + animaciones** activables/desactivables individualmente
-- ♿ **Reducir movimiento** respetado en cada animación
-- 🗣️ **Soporte para VoiceOver** y Dynamic Type hasta AX5
+- ♿ **Reducir movimiento** respetado en cada animación, con una opción integrada en la app que se suma al ajuste del sistema
+- 🗣️ **VoiceOver** — etiquetas en cada elemento interactivo, soporte completo en toda la app
+- 🔤 **Dynamic Type** hasta AX5 (los cuadros de rutina y las filas de tareas se adaptan sin cortes); **Texto en negrita** heredado de las fuentes del sistema
+- 🎨 **Distinción sin color** — cada estado tiene un icono o etiqueta además del color, nunca solo color
+- 🔆 **Contraste suficiente** — las superposiciones sobre fondos temáticos mantienen WCAG AA 4.5:1 en los 9 fondos
 - 👆 **Objetivos táctiles mínimos de 88 pt** en cada elemento accesible para el niño
 - 🔒 **Bloqueo parental** (PIN o Face ID) protege los Ajustes y la edición de rutinas de toques accidentales
-- 🌐 **Universal** — funciona en iPhone y iPad
+- 🌐 **Universal** — funciona en iPhone y iPad, con cuadrícula de 2 columnas en iPad
 - 🌍 **7 idiomas integrados** — inglés, francés, español, italiano, alemán, portugués (Brasil y Portugal)
 - ☁️ **Sincronización con iCloud opcional** — tus rutinas y progreso en todos los dispositivos de la familia
 
