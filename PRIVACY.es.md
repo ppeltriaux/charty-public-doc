@@ -85,6 +85,6 @@ Si esta política cambia, la nueva versión reemplaza este archivo en el reposit
 
 ## Contacto
 
-📧 **Correo:** ppeltriaux@gmail.com
+📧 **Correo:** dev@peltriaux.com
 
 Preguntas, preocupaciones o solicitudes de verificación independiente bienvenidas.

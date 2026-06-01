@@ -54,7 +54,7 @@ Si compraste Charty cuando era una app de pago, **conservas todo gratis** — Ch
 
 ## Soporte
 
-📧 **Correo**: ppeltriaux@gmail.com
+📧 **Correo**: dev@peltriaux.com
 
 Informes de errores, sugerencias de funciones y preguntas bienvenidos.
 

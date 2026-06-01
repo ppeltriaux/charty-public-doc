@@ -1,6 +1,6 @@
 # Soporte
 
-📧 **Correo:** ppeltriaux@gmail.com
+📧 **Correo:** dev@peltriaux.com
 
 Envía informes de errores, sugerencias de funciones, capturas de pantalla o simplemente un saludo.
 

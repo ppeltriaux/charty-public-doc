@@ -54,7 +54,7 @@ Si vous avez acheté Charty à l'époque où c'était une app payante, **vous ga
 
 ## Support
 
-📧 **E-mail** : ppeltriaux@gmail.com
+📧 **E-mail** : dev@peltriaux.com
 
 Rapports de bugs, demandes de fonctionnalités et questions bienvenus.
 

@@ -1,6 +1,6 @@
 # Support
 
-📧 **Email:** ppeltriaux@gmail.com
+📧 **Email:** dev@peltriaux.com
 
 Send bug reports, feature requests, screenshots, or just hellos.
 

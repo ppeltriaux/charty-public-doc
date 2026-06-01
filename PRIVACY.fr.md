@@ -85,6 +85,6 @@ Si cette politique change, la nouvelle version remplace ce fichier dans le dép�
 
 ## Contact
 
-📧 **E-mail :** ppeltriaux@gmail.com
+📧 **E-mail :** dev@peltriaux.com
 
 Questions, préoccupations ou demandes de vérification indépendantes bienvenues.

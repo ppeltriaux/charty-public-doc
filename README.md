@@ -56,7 +56,7 @@ If you bought Charty back when it was a paid app, **you keep everything for free
 
 ## Support
 
-📧 **Email**: ppeltriaux@gmail.com
+📧 **Email**: dev@peltriaux.com
 
 Bug reports, feature requests, and questions all welcome.
 
