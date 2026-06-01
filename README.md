@@ -50,7 +50,7 @@ Also available in [French](./PRIVACY.fr.md) · [Spanish](./PRIVACY.es.md).
 
 **Charty is free to download.** The free version includes 2 charts, up to 5 tasks per chart, and 1 child profile — a complete, usable routine.
 
-**Charty Plus** is a single one-time purchase (no subscription) that unlocks unlimited charts and tasks, multiple children, recorded parent voice, parent insights, per-task timers, the Apple Watch app and interactive widget, and every theme. One purchase covers the whole family (Family Sharing).
+**Charty Plus** is a single one-time purchase (no subscription) that unlocks unlimited charts and tasks, multiple children, recorded parent voice, parent insights, per-task timers, print and share as PDF, the Apple Watch app and interactive widget, and every theme. One purchase covers the whole family (Family Sharing).
 
 If you bought Charty back when it was a paid app, **you keep everything for free** — Charty Plus unlocks automatically, no second payment.
 

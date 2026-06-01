@@ -48,7 +48,7 @@ Charty aide les enfants (principalement de 4 à 10 ans, y compris les enfants av
 
 **Charty est gratuit à télécharger.** La version gratuite comprend 2 tableaux, jusqu'à 5 tâches par tableau et 1 profil d'enfant — une routine complète et utilisable.
 
-**Charty Plus** est un achat unique (pas d'abonnement) qui débloque les tableaux et tâches illimités, plusieurs enfants, l'enregistrement de votre voix, le suivi parental, les minuteurs par étape, l'application Apple Watch et le widget interactif, ainsi que tous les thèmes. Un seul achat couvre toute la famille (Partage familial).
+**Charty Plus** est un achat unique (pas d'abonnement) qui débloque les tableaux et tâches illimités, plusieurs enfants, l'enregistrement de votre voix, le suivi parental, les minuteurs par étape, l'impression/export PDF, l'application Apple Watch et le widget interactif, ainsi que tous les thèmes. Un seul achat couvre toute la famille (Partage familial).
 
 Si vous avez acheté Charty à l'époque où c'était une app payante, **vous gardez tout gratuitement** — Charty Plus se débloque automatiquement, sans second paiement.
 
