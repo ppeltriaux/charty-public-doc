@@ -2,7 +2,7 @@
 
 **Charty** is published by Pascal Peltriaux.
 
-**Effective date:** 18 May 2026
+**Effective date:** 1 June 2026
 
 ---
 
@@ -74,6 +74,10 @@ Charty schedules **local** notifications for daily routine reminders. These are 
 ## Network access
 
 Charty does **not** make any network requests, with the single exception of iCloud sync if you have explicitly enabled it (which travels through Apple's own iCloud infrastructure to your own iCloud account). The app has no embedded URLs, no telemetry endpoints, no remote configuration, no ad SDKs, no analytics SDKs, no crash reporters. In Airplane mode, Charty works identically (iCloud sync simply pauses until connectivity returns).
+
+## Purchases
+
+Charty is free to download, with an optional one-time "Charty Plus" unlock. Purchases are handled **entirely by Apple's App Store / StoreKit** — Charty never sees your name, payment card, or Apple ID. The app only stores a local flag for whether Plus is unlocked; that flag is derived from Apple's on-device receipt and, if you enable iCloud sync, may travel through your own private iCloud database. No purchase or payment data is collected by Charty or sent to its developer. The App Store "Data Not Collected" declaration still applies.
 
 ## Changes to this policy
 

@@ -15,6 +15,13 @@ Charty ayuda a los niños (principalmente de 4 a 10 años, incluyendo niños con
 - ⏲️ **Cronómetro de rutina** — Cuenta atrás independiente de 1 a 60 min con comportamiento final configurable por el padre (pulso suave + sonido, celebración completa, alarma).
 - 🖨️ **Impresión en papel** — PDF A4 multipágina con casillas marcables; AirPrint a tu impresora o guardar en Archivos.
 - 🦖 **190+ iconos ilustrados** en 10 categorías (Higiene, Comidas, Vestir, Escuela, Dormir, Jugar, Tareas, Movimiento, Emociones, Viaje) — el conjunto Noto Emoji de Google más ilustraciones originales de Charty.
+- 👧🧒 **Varios niños** — un perfil para cada niño, con sus propios tableros, ⭐ y recompensas. Cambia con un toque.
+- 🎙️ **Graba tu propia voz** — añade un clip corto con tu voz en cualquier paso; se reproduce en lugar de la voz del dispositivo.
+- ⌚ **App para Apple Watch** — consulta las rutinas del día y marca las tareas desde la muñeca.
+- 📲 **Widgets en pantalla de inicio y bloqueada** — un vistazo al progreso, y marca tareas directamente desde el widget interactivo.
+- 📊 **Información para padres** — un panel privado con rachas y progreso semanal y mensual.
+- ➡️ **Modo Primero/Después** — un paso a la vez, con la recompensa a la vista, para los niños que se concentran mejor en una sola cosa.
+- 🗣️ **Siri y Atajos** — inicia una rutina por voz o desde Spotlight.
 
 ## Diseñado para familias con necesidades especiales
 
@@ -36,6 +43,14 @@ Charty ayuda a los niños (principalmente de 4 a 10 años, incluyendo niños con
 **Charty no recopila nada.** Sin cuentas, sin analíticas, sin anuncios, sin rastreo, sin SDK de terceros que llamen al exterior. Tus datos se quedan en tu dispositivo.
 
 [Política de privacidad completa](./PRIVACY.es.md)
+
+## Precio
+
+**Charty es gratis de descargar.** La versión gratuita incluye 2 tableros, hasta 5 tareas por tablero y 1 perfil de niño — una rutina completa y útil.
+
+**Charty Plus** es una compra única (sin suscripción) que desbloquea tableros y tareas ilimitados, varios niños, la grabación de tu voz, información para padres, temporizadores por paso, la app para Apple Watch y el widget interactivo, y todos los temas. Una sola compra cubre a toda la familia (En familia).
+
+Si compraste Charty cuando era una app de pago, **conservas todo gratis** — Charty Plus se desbloquea automáticamente, sin un segundo pago.
 
 ## Soporte
 

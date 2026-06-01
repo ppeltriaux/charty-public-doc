@@ -20,7 +20,23 @@ Rewards are kid-visible on the Rewards tab. If yours isn't showing, check that y
 
 ### Can I share a chart between two iPads / iPhones?
 
-Not yet. iCloud sync is on the roadmap (Phase 14). For now Charty is local-only per device.
+Yes. Turn on **Settings → Data → iCloud sync** on each device (signed into the same iCloud account). Your charts, rewards, points, and puzzle progress sync through your own private iCloud database — Charty's developer can't see it.
+
+### What's free, and what's Charty Plus?
+
+The free version includes **2 charts, up to 5 tasks per chart, and 1 child** — a complete routine. **Charty Plus** (a one-time purchase, no subscription) unlocks unlimited charts and tasks, multiple children, recorded parent voice, parent insights, per-task timers, the Apple Watch app and interactive widget, and every theme.
+
+### How do I unlock Charty Plus?
+
+**Settings → Charty Plus → Unlock** (behind the parent gate). You can also reach it by tapping the upgrade prompt that appears when you hit a free-tier limit.
+
+### I already paid for Charty — do I have to pay again?
+
+**No.** If you owned Charty when it was a paid app, Charty Plus unlocks automatically and for free — you're never asked to pay again.
+
+### I bought Charty Plus on another device / reinstalled — how do I get it back?
+
+**Settings → Charty Plus → Restore Purchases.** It's a one-time purchase tied to your Apple ID and is covered by Family Sharing.
 
 ### The celebration is too much for my child today.
 

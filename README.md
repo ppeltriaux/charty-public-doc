@@ -15,6 +15,13 @@ Charty helps children (primarily ages 4–10, including kids with ASD and other 
 - ⏲️ **Routine timer** — Standalone 1–60 min countdown with parent-set end behaviour (gentle pulse + chime, full celebration, alarm).
 - 🖨️ **Paper print** — Multi-page A4 PDF with tickable boxes; AirPrint to your printer or save to Files.
 - 🦖 **190+ illustrated icons** across 10 categories (Hygiene, Meals, Dressing, School, Bedtime, Play, Chores, Movement, Emotions, Travel) — Google's Noto Emoji set plus original Charty illustrations (toothbrush, table, toast, tablet, phone, and the puzzle / celebration art packs).
+- 👧🧒 **Multiple kids** — a profile for each child, each with their own charts, ⭐ balance, and rewards. Switch with a tap.
+- 🎙️ **Record your own voice** — add a short clip in your own voice to any step; it plays instead of the computer voice.
+- ⌚ **Apple Watch app** — see today's charts and tick tasks right from the wrist.
+- 📲 **Home Screen & Lock Screen widgets** — glance at progress, and tick tasks straight from the interactive Home Screen widget.
+- 📊 **Parent insights** — a private dashboard with streaks and weekly / monthly progress.
+- ➡️ **First/Then mode** — show one step at a time with the reward in view, for kids who focus best on a single thing.
+- 🗣️ **Siri & Shortcuts** — start a routine by voice or from Spotlight search.
 
 ## Designed for special-needs families
 
@@ -38,6 +45,14 @@ Charty helps children (primarily ages 4–10, including kids with ASD and other 
 [Full privacy policy](./PRIVACY.md)
 
 Also available in [French](./PRIVACY.fr.md) · [Spanish](./PRIVACY.es.md).
+
+## Pricing
+
+**Charty is free to download.** The free version includes 2 charts, up to 5 tasks per chart, and 1 child profile — a complete, usable routine.
+
+**Charty Plus** is a single one-time purchase (no subscription) that unlocks unlimited charts and tasks, multiple children, recorded parent voice, parent insights, per-task timers, the Apple Watch app and interactive widget, and every theme. One purchase covers the whole family (Family Sharing).
+
+If you bought Charty back when it was a paid app, **you keep everything for free** — Charty Plus unlocks automatically, no second payment.
 
 ## Support
 

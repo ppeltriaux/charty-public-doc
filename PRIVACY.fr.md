@@ -2,7 +2,7 @@
 
 **Charty** est publié par Pascal Peltriaux.
 
-**Date d'effet :** 17 mai 2026
+**Date d'effet :** 1 juin 2026
 
 ---
 
@@ -74,6 +74,10 @@ Charty planifie des notifications **locales** pour les rappels de routines quoti
 ## Accès réseau
 
 Charty **ne fait** aucune requête réseau, à l'exception de la synchronisation iCloud si vous l'avez explicitement activée (qui passe par la propre infrastructure iCloud d'Apple). L'application n'a pas d'URL intégrée, pas de point de télémétrie, pas de configuration distante, pas de SDK de pub, pas de SDK d'analytique, pas de rapporteur de plantage. En mode Avion, Charty fonctionne à l'identique (la synchronisation iCloud est simplement mise en pause jusqu'à ce que la connexion revienne).
+
+## Achats
+
+Charty est gratuit à télécharger, avec un déblocage unique facultatif, « Charty Plus ». Les achats sont gérés **entièrement par l'App Store / StoreKit d'Apple** — Charty ne voit jamais votre nom, votre carte bancaire ni votre identifiant Apple. L'application ne stocke qu'un indicateur local indiquant si Plus est débloqué ; cet indicateur est dérivé du reçu Apple sur l'appareil et, si vous activez la synchronisation iCloud, peut transiter par votre propre base iCloud privée. Aucune donnée d'achat ou de paiement n'est collectée par Charty ni envoyée à son développeur. La déclaration « Aucune donnée collectée » de l'App Store reste valable.
 
 ## Modifications de cette politique
 

@@ -42,6 +42,22 @@ Sí. **Ajustes → Rompecabezas de imagen → Origen de la imagen** → toca cua
 
 **Ajustes → Idioma** → elige entre los 7 idiomas compatibles (español, inglés, francés, italiano, alemán, portugués Brasil y Portugal) o déjalo en «Usar idioma del sistema». El cambio tiene efecto la próxima vez que abras la app.
 
+### ¿Qué es gratis y qué es Charty Plus?
+
+La versión gratuita incluye **2 tableros, hasta 5 tareas por tablero y 1 niño** — una rutina completa. **Charty Plus** (compra única, sin suscripción) desbloquea tableros y tareas ilimitados, varios niños, la grabación de tu voz, información para padres, temporizadores por paso, la app para Apple Watch y el widget interactivo, y todos los temas.
+
+### ¿Cómo desbloqueo Charty Plus?
+
+**Ajustes → Charty Plus → Desbloquear** (tras el bloqueo parental). También puedes llegar desde el aviso que aparece cuando alcanzas un límite de la versión gratuita.
+
+### Ya pagué por Charty — ¿tengo que pagar otra vez?
+
+**No.** Si tenías Charty cuando era una app de pago, Charty Plus se desbloquea automáticamente y gratis — nunca se te pide pagar una segunda vez.
+
+### Compré Charty Plus en otro dispositivo / reinstalé — ¿cómo lo recupero?
+
+**Ajustes → Charty Plus → Restaurar compras.** Es una compra única ligada a tu ID de Apple y cubierta por En familia.
+
 ## Informes de errores
 
 Cuando envíes un correo, incluye:

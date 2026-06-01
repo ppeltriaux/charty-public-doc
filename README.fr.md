@@ -15,6 +15,13 @@ Charty aide les enfants (principalement de 4 à 10 ans, y compris les enfants av
 - ⏲️ **Minuteur de routine** — Compte à rebours autonome de 1 à 60 min avec comportement de fin défini par le parent (pulsation douce + carillon, célébration complète, alarme).
 - 🖨️ **Impression papier** — PDF A4 multipage avec cases à cocher ; AirPrint vers votre imprimante ou enregistrer dans Fichiers.
 - 🦖 **190+ icônes illustrées** réparties en 10 catégories (Hygiène, Repas, Habillage, École, Coucher, Jeu, Tâches ménagères, Mouvement, Émotions, Voyage) — l'ensemble Noto Emoji de Google plus des illustrations originales Charty.
+- 👧🧒 **Plusieurs enfants** — un profil par enfant, avec ses propres tableaux, ses ⭐ et ses récompenses. Changez d'un simple toucher.
+- 🎙️ **Enregistrez votre voix** — ajoutez un court clip dans votre voix sur n'importe quelle étape ; il remplace la voix de synthèse.
+- ⌚ **Application Apple Watch** — consultez les routines du jour et cochez les tâches depuis le poignet.
+- 📲 **Widgets écran d'accueil et écran verrouillé** — un coup d'œil sur la progression, et cochez les tâches directement depuis le widget interactif.
+- 📊 **Suivi parental** — un tableau de bord privé avec les séries et la progression hebdomadaire et mensuelle.
+- ➡️ **Mode Premier/Ensuite** — une étape à la fois, avec la récompense en vue, pour les enfants qui se concentrent mieux sur une seule chose.
+- 🗣️ **Siri et Raccourcis** — démarrez une routine à la voix ou depuis Spotlight.
 
 ## Conçu pour les familles avec besoins particuliers
 
@@ -36,6 +43,14 @@ Charty aide les enfants (principalement de 4 à 10 ans, y compris les enfants av
 **Charty ne collecte rien.** Pas de comptes, pas d'analytique, pas de pubs, pas de pistage, pas de SDK tiers qui contactent l'extérieur. Vos données restent sur votre appareil.
 
 [Politique de confidentialité complète](./PRIVACY.fr.md)
+
+## Tarif
+
+**Charty est gratuit à télécharger.** La version gratuite comprend 2 tableaux, jusqu'à 5 tâches par tableau et 1 profil d'enfant — une routine complète et utilisable.
+
+**Charty Plus** est un achat unique (pas d'abonnement) qui débloque les tableaux et tâches illimités, plusieurs enfants, l'enregistrement de votre voix, le suivi parental, les minuteurs par étape, l'application Apple Watch et le widget interactif, ainsi que tous les thèmes. Un seul achat couvre toute la famille (Partage familial).
+
+Si vous avez acheté Charty à l'époque où c'était une app payante, **vous gardez tout gratuitement** — Charty Plus se débloque automatiquement, sans second paiement.
 
 ## Support
 
